@@ -14,8 +14,8 @@ Este repositório contém a entrega do desafio prático proposto pela DIO, utili
 - Registro dos resultados com capturas de tela
 
 ## 📸 Capturas de Tela
-- [Fala para Texto](www.drive.google.com/file/d/15Ft0GdNWFQaD67aKy6HyHUwRbudhHWMc/view?usp=sharing)
-- [Análise de Sentimento](www.drive.google.com/file/d/1rJeVN3cif7DMvPYCTeSDiEwI4oZaaxxJ/view?usp=sharing)
+- [Fala para Texto](https://drive.google.com/file/d/15Ft0GdNWFQaD67aKy6HyHUwRbudhHWMc/view)
+- [Análise de Sentimento](https://drive.google.com/file/d/1rJeVN3cif7DMvPYCTeSDiEwI4oZaaxxJ/view)
 
 ## 📚 Conclusão
 Foi possível entender na prática como os serviços de Inteligência Artificial da Microsoft funcionam. A experiência ajudou a reforçar o uso da nuvem e da IA aplicada ao processamento de linguagem natural.
